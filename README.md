@@ -18,12 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sobanim.Sobanim&left_text=Visitirs count"  />
-</div>
-
-###
-
 <h2 align="center">Hi!👋 My name is Dmytro Soboliev 🙂</h2>
 
 ###
